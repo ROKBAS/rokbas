@@ -9,5 +9,6 @@ Here are some info about me:
 - 📫 How to reach me: 📧 **anton.fomi@ya.ru**
 - 😄 Pronouns: He ☮
 - ⚡ Fun fact: :fries: When i was 18, i worked at mcdonalds :hamburger: 
+- 🎬 Videos: [Youtube](https://www.youtube.com/channel/UCp4uTpGp5bFZeh4QUAOGobQ)
 
 [![ROKBAS's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROKBAS)](https://github.com/anuraghazra/github-readme-stats)
