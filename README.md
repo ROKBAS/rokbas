@@ -1,16 +1,13 @@
-### Hi there 👋
+## 👋 I'm Anton (ROKBAS) Fomin 👋
+### Currently working as backend developer in Selectel 
+Here are some info about me:
+- 🔭 I’m currently working on DBS (Database Building Simulator).
+- 🌱 I’m currently learning Python and C++.
+- 👯 I’m looking to collaborate on any open source project.
+- 🤔 I’m looking for help with C++.
+- 💬 Ask me about Python and Web development.
+- 📫 How to reach me: **anton.fomi@ya.ru**
+- 😄 Pronouns: He.
+- ⚡ Fun fact: When i was 18, i worked at mcdonalds.
 
-<!--
-**ROKBAS/rokbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![ROKBAS's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROKBAS)](https://github.com/anuraghazra/github-readme-stats)
