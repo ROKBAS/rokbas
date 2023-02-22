@@ -1,7 +1,7 @@
 ## 👋 I'm Anton (ROKBAS) Fomin 👋
 ### Currently working as backend developer in [Selectel](https://selectel.ru/en/)
 Here are some info about me:
-- 🔭 I’m currently working on  Database Building Simulator 🔒🏗️:godmode:
+- 🔭 I’m currently working on  Datacenter Building Simulator 🔒🏗️:godmode:
 - 🌱 I’m currently learning 🐍 Python and C++
 - 👯 I’m looking to collaborate on any open source project
 - 🤔 I’m looking for help with C++
