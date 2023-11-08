@@ -4,7 +4,7 @@ Here are some info about me:
 - 🔭 I’m currently working on  Datacenter Building Simulator 🔒🏗️:godmode:
 - 🌱 I’m currently learning 🐍 Python and C++
 - 👯 I’m looking to collaborate on any open source project
-- 🤔 I’m looking for help with C++
+- 🤔 I’m looking for help with Game Development
 - 💬 Ask me about Python and Web development
 - 📫 How to reach me: 📧 **anton.fomi@ya.ru**
 - 😄 Pronouns: He ☮
